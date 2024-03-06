@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: public
 
 website:
   title: "Andrei Stoica"
@@ -16,3 +17,5 @@ format:
       - tailwind.css
       - styles.css
     toc: true
+    embed-resources: true
+    self-contained-math: true
