@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Andrei Stoica",
     "section": "",
-    "text": "About this site"
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n\n      \n\nEducation\nMaster of Science - Computer Science | 2022  Ontario Tech University | Oshawa, ON\nBachelor of Science - Computer Science | 2018  Ontario Tech University | Oshawa, ON\n\n\n    \n  \n\n\n\nWork Experience\nData Engineer (contract) | Aug. 2022 - April 2023  The Block Crypto | Remote\n\nBuild and maintain data pipelines to aid the research team in better making sense of the crypto landscape\nCollaborate with research and engineering teams to ensure data quality and stability of pipelines\nTechnologies : Python · Pandas · SQL · Apache Airflow · Amazon Web Services (AWS) · Redshift\n\nGraduate Research Assistant | May 2018 - Aug. 2020  Ontario Tech University, Oshawa, ON\n\nLead the research on text mining and natural language processing queries in relational databases\nTopics and Technologies used : PostgreSQL · topic modelling · NLP · Python web services\n\n\n\nProject Experience\nNLP Relational Queries And Its Applications (2020) Thesis Project\n\nStoica, Andrei, Ken Q Pu, and Heidar Davoudi. 2020. “NLP Relational Queries and Its Application.” In 2020 IEEE 21st International Conference on Information Reuse and Integration for Data Science (IRI), 395–98. IEEE.\n\nDeveloped LDA extension to PostgreSQL to allow Topic Modelling of text columns inside of SQL\nCreated a web front end to visualize the change in topics over time for academic authors and venues\nPublished 2020 IEEE International Conference on Information Reuse and Integration for Data Science\nTechnologies : Python · SQL/PostgreSQL · Flask · HTML · CSS · D3.js\n\nScalable Analysis of Open Data Graphs (2019)\n\nStoica, Andrei, Michael Valdron, and Ken Pu. 2019. “Scalable Analysis of Open Data Graphs.” In 2019 IEEE 20th International Conference on Information Reuse and Integration for Data Science (IRI), 334–41. IEEE.\n\nPerformed analysis of similarities between documents through Canada’s Open Data portal\nProvided insight into organization and connectedness of Canada’s Open Data\nScalable and Distributed code base to allow for large dataset and scaling with time\nPublished and Presented at 2019 IEEE International Conference on Information Reuse and Integration for Data Science\nTechnologies : Python · SQL/PostgreSQL · Apache · Spark/PySpark · Matplotlib · GCP Storage · GCP Dataproc\n\nCanadian Political Twitter Analysis\n\nBuilt tools to track and analyse the conversation surrounding Canadian politics on Twitter\nTracked key figures and CDNPoli hashtag and predicted standings in 2019 election\nTechnologies : Python · Tensorflow · SQL/PostgreSQL · Matplotlib"
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,96 @@
     "title": "Personal",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\ntest"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Andrei Stoica",
+    "section": "",
+    "text": "Master of Science - Computer Science | 2022  Ontario Tech University | Oshawa, ON\nBachelor of Science - Computer Science | 2018  Ontario Tech University | Oshawa, ON"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Andrei Stoica",
+    "section": "",
+    "text": "Master of Science - Computer Science | 2022  Ontario Tech University | Oshawa, ON\nBachelor of Science - Computer Science | 2018  Ontario Tech University | Oshawa, ON"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Finley Malloc",
+    "section": "",
+    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Andrei Stoica",
+    "section": "Work Experience",
+    "text": "Work Experience\nData Engineer (contract) | Aug. 2022 - April 2023  The Block Crypto | Remote\n\nBuild and maintain data pipelines to aid the research team in better making sense of the crypto landscape\nCollaborate with research and engineering teams to ensure data quality and stability of pipelines\nTechnologies : Python · Pandas · SQL · Apache Airflow · Amazon Web Services (AWS) · Redshift\n\nGraduate Research Assistant | May 2018 - Aug. 2020  Ontario Tech University, Oshawa, ON\n\nLead the research on text mining and natural language processing queries in relational databases\nTopics and Technologies used : PostgreSQL · topic modelling · NLP · Python web services"
+  },
+  {
+    "objectID": "resume.html#software-development-experience",
+    "href": "resume.html#software-development-experience",
+    "title": "Andrei Stoica",
+    "section": "Software Development Experience",
+    "text": "Software Development Experience\nPrograming : Python · Java · Clojure and ClojureScript · C/C++ · Kotlin · Scala\nData Science : Numpy · Scipy · NLTK · Gensim · Pandas · Ipython Notebooks\nDatabase : PostgreSQL · MongoDB · Redshift\nWeb Serices : Flask · NodeJS\nWeb Frontend : HTML · CSS · ClojureScript · JavaScript · Reagent · React · JQuery\nML/AI : Tensorflow · scikit-learn · word2vec · fasttext\nTool : Jira · Confluence · Git"
+  },
+  {
+    "objectID": "resume.html#project-experience",
+    "href": "resume.html#project-experience",
+    "title": "Andrei Stoica",
+    "section": "Project Experience",
+    "text": "Project Experience\nNLP Relational Queries And Its Applications Thesis Project\n\nDeveloped LDA extension to PostgreSQL to allow Topic Modelling of text columns inside of SQL\nCreated a web front end to visualize the change in topics over time for academic authors and venues\nPublished 2020 IEEE International Conference on Information Reuse and Integration for Data Science\nTechnologies : Python · SQL/PostgreSQL · Flask · HTML · CSS · D3.js\n\nScalable Analysis of Open Data Graphs\n\nPerformed analysis of similarities between documents through Canada’s Open Data portal\nProvided insight into organization and connectedness of Canada’s Open Data\nScalable and Distributed code base to allow for large dataset and scaling with time\nPublished and Presented at 2019 IEEE International Conference on Information Reuse and Integration for Data Science\nTechnologies : Python · SQL/PostgreSQL · Apache · Spark/PySpark · Matplotlib · GCP Storage · GCP Dataproc\n\nCanadian Political Twitter Analysis\n\nBuilt tools to track and analyse the conversation surrounding Canadian politics on Twitter\nTracked key figures and CDNPoli hashtag and predicted standings in 2019 election\nTechnologies : Python · Tensorflow · SQL/PostgreSQL · Matplotlib"
+  },
+  {
+    "objectID": "resume.html#publications",
+    "href": "resume.html#publications",
+    "title": "Andrei Stoica",
+    "section": "Publications",
+    "text": "Publications\nStoica, A., K. Pu, and H. Davoudi (2020). “NLP Relational Queries And Its Applications”. In: 2020 IEEE 21th International Conference on Information Reuse and Integration for Data Science (IRI).pp. 395–398. DOI: 10.1109/IRI49571.2020.00064\nStoica, A., M. Valdron, and K. Pu (2019). “Scalable Analysis of Open Data Graphs”. In: 2019 IEEE 20th International Conference on Information Reuse and Integration for Data Science (IRI), pp. 334–341. DOI: 10.1109/IRI.2019.00059."
+  },
+  {
+    "objectID": "resume.html#hobbies",
+    "href": "resume.html#hobbies",
+    "title": "Andrei Stoica",
+    "section": "Hobbies",
+    "text": "Hobbies\nFree and open source software enthusiast Maintain a home media and storage server for family running the latest Ubuntu LTS Build computers for others, source and consult on components required, install and teach them to install themselves"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Andrei Stoica",
+    "section": "Education",
+    "text": "Education\nMaster of Science - Computer Science | 2022  Ontario Tech University | Oshawa, ON\nBachelor of Science - Computer Science | 2018  Ontario Tech University | Oshawa, ON"
+  },
+  {
+    "objectID": "about.html#work-experience",
+    "href": "about.html#work-experience",
+    "title": "Andrei Stoica",
+    "section": "Work Experience",
+    "text": "Work Experience\nData Engineer (contract) | Aug. 2022 - April 2023  The Block Crypto | Remote\n\nBuild and maintain data pipelines to aid the research team in better making sense of the crypto landscape\nCollaborate with research and engineering teams to ensure data quality and stability of pipelines\nTechnologies : Python · Pandas · SQL · Apache Airflow · Amazon Web Services (AWS) · Redshift\n\nGraduate Research Assistant | May 2018 - Aug. 2020  Ontario Tech University, Oshawa, ON\n\nLead the research on text mining and natural language processing queries in relational databases\nTopics and Technologies used : PostgreSQL · topic modelling · NLP · Python web services"
+  },
+  {
+    "objectID": "about.html#software-development-experience",
+    "href": "about.html#software-development-experience",
+    "title": "Andrei Stoica",
+    "section": "Software Development Experience",
+    "text": "Software Development Experience\nPrograming : Python · Java · Clojure and ClojureScript · C/C++ · Kotlin · Scala\nData Science : Numpy · Scipy · NLTK · Gensim · Pandas · Ipython Notebooks\nDatabase : PostgreSQL · MongoDB · Redshift\nWeb Serices : Flask · NodeJS\nWeb Frontend : HTML · CSS · ClojureScript · JavaScript · Reagent · React · JQuery\nML/AI : Tensorflow · scikit-learn · word2vec · fasttext\nTool : Jira · Confluence · Git"
+  },
+  {
+    "objectID": "about.html#project-experience",
+    "href": "about.html#project-experience",
+    "title": "Andrei Stoica",
+    "section": "Project Experience",
+    "text": "Project Experience\nNLP Relational Queries And Its Applications Thesis Project\n\nDeveloped LDA extension to PostgreSQL to allow Topic Modelling of text columns inside of SQL\nCreated a web front end to visualize the change in topics over time for academic authors and venues\nPublished 2020 IEEE International Conference on Information Reuse and Integration for Data Science (2020)\nTechnologies : Python · SQL/PostgreSQL · Flask · HTML · CSS · D3.js\n\n\nStoica, Andrei, Ken Q Pu, and Heidar Davoudi. 2020. “NLP Relational Queries and Its Application.” In 2020 IEEE 21st International Conference on Information Reuse and Integration for Data Science (IRI), 395–98. IEEE.\nScalable Analysis of Open Data Graphs\n\nPerformed analysis of similarities between documents through Canada’s Open Data portal\nProvided insight into organization and connectedness of Canada’s Open Data\nScalable and Distributed code base to allow for large dataset and scaling with time\nPublished and Presented at 2019 IEEE International Conference on Information Reuse and Integration for Data Science (2019)\nTechnologies : Python · SQL/PostgreSQL · Apache · Spark/PySpark · Matplotlib · GCP Storage · GCP Dataproc\n\n\nStoica, Andrei, Michael Valdron, and Ken Pu. 2019. “Scalable Analysis of Open Data Graphs.” In 2019 IEEE 20th International Conference on Information Reuse and Integration for Data Science (IRI), 334–41. IEEE.\nCanadian Political Twitter Analysis\n\nBuilt tools to track and analyse the conversation surrounding Canadian politics on Twitter\nTracked key figures and CDNPoli hashtag and predicted standings in 2019 election\nTechnologies : Python · Tensorflow · SQL/PostgreSQL · Matplotlib"
+  },
+  {
+    "objectID": "about.html#publications",
+    "href": "about.html#publications",
+    "title": "Andrei Stoica",
+    "section": "Publications",
+    "text": "Publications\nStoica, A., K. Pu, and H. Davoudi (2020). “NLP Relational Queries And Its Applications”. In: 2020 IEEE 21th International Conference on Information Reuse and Integration for Data Science (IRI).pp. 395–398. DOI: 10.1109/IRI49571.2020.00064\nStoica, A., M. Valdron, and K. Pu (2019). “Scalable Analysis of Open Data Graphs”. In: 2019 IEEE 20th International Conference on Information Reuse and Integration for Data Science (IRI), pp. 334–341. DOI: 10.1109/IRI.2019.00059."
   }
 ]

@@ -8,14 +8,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
 
 format:
   html:
-    theme: cyborg
-    css: 
-      - tailwind.css
-      - styles.css
+    theme: 
+      dark: darkly
+      light: flatly
     toc: true
     embed-resources: true
     self-contained-math: true
