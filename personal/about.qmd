@@ -17,38 +17,62 @@ bibliography: papers.bibtex
 <br />
 
 
-
 :::{#hero}
 
 ### Education
 
-**Master of Science** - Computer Science | 2022 <br />
-Ontario Tech University | Oshawa, ON 
+**Master of Science** - Computer Science | Ontario Tech University <br />
+2022 | Oshawa, ON 
 
-**Bachelor of Science** - Computer Science | 2018 <br />
-Ontario Tech University | Oshawa, ON
+**Bachelor of Science** - Computer Science | Ontario Tech University <br />
+2018 | Oshawa, ON
 
 :::
 
 ### Work Experience
 
-**Data Engineer (contract)** | Aug. 2022 - April 2023 <br />
-The Block Crypto | Remote
+**Data Engineer (contract)** | The Block Crypto <br />
+Aug. 2022 - April 2023 | New York, NY
 
-- Build and maintain data pipelines to aid the research team in better
-  making sense of the crypto landscape
-- Collaborate with research and engineering teams to ensure data quality
-  and stability of pipelines
-- Technologies : **Python** · **Pandas** · **SQL** · **Apache Airflow** ·
-                 **Amazon Web Services (AWS)** · **Redshift**
+- build data pipelines that extract data from 16 exchanges (**Airflow**)
+- clean data from api and normalize currency (**Pandas**)
+- warhouse data on **AWS** (**S3**, **Redshift**)
+- colaborate with research team to eusure data quality
+- on call for unexpected pipeline failures
 
-**Graduate Research Assistant** | May 2018 - Aug. 2020 <br />
-Ontario Tech University, Oshawa, ON
+**Graduate Research Assistant** | Ontario Tech University <br />
+May 2018 - Aug. 2020 | Oshawa, ON
 
-- Lead the research on text mining and natural language processing queries
-  in relational databases
-- Topics and Technologies used : **PostgreSQL** · **topic modelling** · **NLP** ·
-                                 **Python web services**
+- NLP Relational Queries And Its Applications
+  - *Something Goes here*
+- Scalable Analysis of Open Data Graphs
+  - *Something Goes here*
+- Canadian Political Twitter Analysis
+  - track public sentiment toward political parties
+  - ingetst tweets via twitter api
+  - stream tweets that mention party members
+  - data storage via PostgreSQL
+  - *Something about visualization goes here*
+
+---
+
+- CDNPoli
+  + ingest data via twitter api
+  + stream tweets that mention party members 
+    * calculate sentiment of tweets (TF, sk-learn)
+  + datastore via PostgreSQL
+- OpenDataGraph
+  + GCP Dataproc(Spark)
+  + pyspark
+  + distributed compute to analyze similarity graph
+  + large open dataset
+- NLP/SQL
+  + perform opperations for NLP in PostgreSQL:
+    * perform text normalization
+    * perform tokenization
+    * text embeding
+    * similarity of documents
+
 
 
 ### Project Experience

@@ -8,14 +8,20 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - text: "Projects"
+        menu:
+          - projects/nlp-queries.qmd 
+          - projects/open-data-graph.qmd 
+          - projects/cdn-poli.qmd 
       - href: about.qmd
         text: About
+      - href: posts.qmd
+        text: Posts
+
 
 format:
   html:
-    theme: 
-      dark: darkly
-      light: flatly
+    theme: darkly
     toc: true
     embed-resources: true
     self-contained-math: true
