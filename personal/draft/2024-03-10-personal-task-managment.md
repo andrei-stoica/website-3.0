@@ -56,7 +56,7 @@ the keyboard while working means I am more likely to use the system. Therefore,
 the system is more likely to be effective.
 
 I prefer to work in the terminal so I made a system that fits into that
-workflow. If I type `todo` in any terminal on my systems, it will open todays
+workflow. If I type `todo` in any terminal on my systems, it will open today's
 file. If that file doesn't exist, it will take the last file I created, strip
 any done tasks and create this new file. The files themselves are markdown. The
 editor I configurable, I was using VSCode for a while but I'm currently using

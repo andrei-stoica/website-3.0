@@ -1,13 +1,12 @@
 ---
 title: "Personal"
+listing:
+  id: projects
+  contents: projects
+  type: grid
+  fields: [title, description]
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-::: {.tw-text-xl}
-
-test
-
+## Projects
+:::{.projects}
 :::
