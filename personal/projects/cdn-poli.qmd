@@ -2,4 +2,8 @@
 title: Canadian Political Twitter Analysis
 ---
 
-CDN POLI
+:::{.d-flex .justify-content-center .align-items-center .h-100 .fs-1 .text-warning}
+
+**UNDER CUNSTRUCTION!**
+
+:::

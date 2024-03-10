@@ -2,4 +2,8 @@
 title: NLP Relational Queries And Its Applications
 ---
 
-Thesis
+:::{.d-flex .justify-content-center .align-items-center .h-100 .fs-1 .text-warning}
+
+**UNDER CUNSTRUCTION!**
+
+:::
